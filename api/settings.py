@@ -25,7 +25,7 @@ SECRET_KEY = 'bt8&mb^_9#-^#bbaawim3k+4ifmrb%p+#!8k%vh6*=_xj8y+%9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cheesecake-labs-challenge-api.herokuapp.com']
 
 
 # Application definition
